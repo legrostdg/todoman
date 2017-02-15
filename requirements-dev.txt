@@ -3,3 +3,4 @@ flake8-import-order
 hypothesis
 pytest
 pytest-cov
+radon
